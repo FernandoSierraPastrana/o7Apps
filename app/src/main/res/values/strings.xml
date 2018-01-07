@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Apps</string>
+    <string name="message_main_empty">You don\'t have any app</string>
+    <string name="button_detail_open">Open App</string>
+    <string name="version_code_template">\nVersion code\n%s</string>
+    <string name="version_name_template">\n\nVersion name\n%s</string>
+</resources>
