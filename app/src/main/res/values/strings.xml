@@ -4,4 +4,7 @@
     <string name="button_detail_open">Open App</string>
     <string name="version_code_template">\nVersion code\n%s</string>
     <string name="version_name_template">\n\nVersion name\n%s</string>
+    <string name="last_update_template">\n\nLast update\n%s</string>
+    <string name="min_sdk_template">\n\nMin SDK\n%s</string>
+    <string name="target_sdk_template">\n\nTarget SDK\n%s</string>
 </resources>
